@@ -6,6 +6,10 @@ Version 1.0.0 stable (2012-03-13)
 ---------------------------------
 - Initial release
 
-Version 1.0.1 stable (2012-06-26)
+Version 1.0.1 stable (2012-03-13)
+---------------------------------
+- Bugfix: dca permission
+
+Version 1.0.2 stable (2012-06-26)
 ---------------------------------
 - Bugfix: dca tl_module
