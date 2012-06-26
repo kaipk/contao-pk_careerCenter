@@ -23,7 +23,7 @@
 /**
  * Add palettes to tl_module
  */ 
-$GLOBALS['TL_DCA']['tl_module']['palettes']['pk_careerCenterList']    = '{title_legend},name,headline;{config_legend},careerCenter_archives,jobs_numberOfItems,perPage;{protected_legend:hide},protected;{expert_legend:hide},guests,cssID,space';
+$GLOBALS['TL_DCA']['tl_module']['palettes']['pk_careerCenterList']    = '{title_legend},name,headline,type;{config_legend},careerCenter_archives,jobs_numberOfItems,perPage;{protected_legend:hide},protected;{expert_legend:hide},guests,cssID,space';
  
  
 /**
